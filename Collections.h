@@ -11,7 +11,7 @@
 #include <iostream>
 
 #define MAX_POINTS 3000000
-#define K 8
+#define K 5
 
 
 /* Struct that wraps the dataset using a coalesced memory access pattern */

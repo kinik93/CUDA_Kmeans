@@ -19,7 +19,7 @@
  * Costants
  * ********************/
 
-#define DATA_PATH "./points_k8_3kk.txt"
+#define DATA_PATH "./points.txt"
 #define BLOCK_SIZE 256
 
 
